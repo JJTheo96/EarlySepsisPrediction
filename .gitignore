@@ -1,0 +1,48 @@
+# data and model path #
+######################
+artificial_neonatal_data/data/
+datasets/
+models_adults/data/
+models_adults/model_LR/label/
+models_adults/model_LR/prediction/
+models_adults/model_LR/trained_models/
+models_adults/model_LSTM/label/
+models_adults/model_LSTM/prediction/
+models_adults/model_LSTM/trained_models/
+models_adults/model_RF/label/
+models_adults/model_RF/prediction/
+models_adults/model_RF/trained_models/
+models_adults/model_XGB/label/
+models_adults/model_XGB/prediction/
+models_adults/model_XGB/trained_models/
+models_neoantes/data/
+models_neoantes/model_LSTM/
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+
+# data #
+######################
+.csv
+.psv
+.npy
+.pickle
+
+# model #
+######################
+.joblib
+.mdl
+.h5
+
+# Packages #
+######################
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
