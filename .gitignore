@@ -17,6 +17,9 @@ models_adults/model_XGB/prediction/
 models_adults/model_XGB/trained_models/
 models_neoantes/data/
 models_neoantes/model_LSTM/
+transfer_learning/label/
+transfer_learning/prediction/
+transfer_learning/trained_models/
 
 # OS generated files #
 ######################
