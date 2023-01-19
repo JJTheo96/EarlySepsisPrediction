@@ -12,9 +12,12 @@ models_adults/model_LSTM/trained_models/
 models_adults/model_RF/label/
 models_adults/model_RF/prediction/
 models_adults/model_RF/trained_models/
-models_adults/model_XGB/label/
-models_adults/model_XGB/prediction/
-models_adults/model_XGB/trained_models/
+models_adults/model_XGB_downsample/label/
+models_adults/model_XGB_downsample/prediction/
+models_adults/model_XGB_downsample/trained_models/
+models_adults/model_XGB_upsample/label/
+models_adults/model_XGB_upsample/prediction/
+models_adults/model_XGB_upsample/trained_models/
 models_neoantes/data/
 models_neoantes/model_LSTM/
 transfer_learning/label/
