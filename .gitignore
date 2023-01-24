@@ -18,6 +18,8 @@ models_adults/model_XGB_downsample/trained_models/
 models_adults/model_XGB_upsample/label/
 models_adults/model_XGB_upsample/prediction/
 models_adults/model_XGB_upsample/trained_models/
+models_adults/data_AUG/
+models_adults/model_RF_AUG/
 models_neoantes/data/
 models_neoantes/model_LSTM/
 transfer_learning/label/
